@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Artem20201610/react_people-table-advanced/static/css/main.0ff47694.chunk.css",
+    "main.js": "/Artem20201610/react_people-table-advanced/static/js/main.406f1fdf.chunk.js",
+    "main.js.map": "/Artem20201610/react_people-table-advanced/static/js/main.406f1fdf.chunk.js.map",
+    "runtime-main.js": "/Artem20201610/react_people-table-advanced/static/js/runtime-main.7f175076.js",
+    "runtime-main.js.map": "/Artem20201610/react_people-table-advanced/static/js/runtime-main.7f175076.js.map",
+    "static/css/2.1890a892.chunk.css": "/Artem20201610/react_people-table-advanced/static/css/2.1890a892.chunk.css",
+    "static/js/2.63b18781.chunk.js": "/Artem20201610/react_people-table-advanced/static/js/2.63b18781.chunk.js",
+    "static/js/2.63b18781.chunk.js.map": "/Artem20201610/react_people-table-advanced/static/js/2.63b18781.chunk.js.map",
+    "index.html": "/Artem20201610/react_people-table-advanced/index.html",
+    "precache-manifest.af8da173c5c7bee38e71cbf48dc0590c.js": "/Artem20201610/react_people-table-advanced/precache-manifest.af8da173c5c7bee38e71cbf48dc0590c.js",
+    "service-worker.js": "/Artem20201610/react_people-table-advanced/service-worker.js",
+    "static/css/2.1890a892.chunk.css.map": "/Artem20201610/react_people-table-advanced/static/css/2.1890a892.chunk.css.map",
+    "static/css/main.0ff47694.chunk.css.map": "/Artem20201610/react_people-table-advanced/static/css/main.0ff47694.chunk.css.map",
+    "static/js/2.63b18781.chunk.js.LICENSE.txt": "/Artem20201610/react_people-table-advanced/static/js/2.63b18781.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f175076.js",
+    "static/css/2.1890a892.chunk.css",
+    "static/js/2.63b18781.chunk.js",
+    "static/css/main.0ff47694.chunk.css",
+    "static/js/main.406f1fdf.chunk.js"
+  ]
+}
